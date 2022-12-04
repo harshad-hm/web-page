@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins';
+    background-color: #FBF8CC;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+ 
+/* identical to box height */
+
+
+/* Dark Blue */
+
+color: #03045E;
+}
+.name_container{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 0%;
+}
+.navelinks{
+      list-style: none;
+      display: flex;
+      justify-content: center ;
+      margin-top: 0%;
+}
+.name_container{
+    padding: 30px;
+}
+.navelinks li{
+    margin: 30px;
+    
+}
+#home{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.home_left{
+    width: 50%;
+    
+}
+.home_right{
+    
+    text-align: center;
+    
+}
+.web_designer{
+    font-size: 110px;
+    font-weight: bolder;
+    color:#03045E ;
+    line-height: 116px;
+}
+.home_hello{
+    font-size: 28px;
+    color: #03045E;
+}
+.resume{
+    margin-top: 50px;
+}
+.resume {
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: #F5EE84;
+    width: 10%;
+
+}
+.profile{
+    border-radius: 50%;
+}
+.about_para{
+    width: 70%;
+    margin-top: 30px;
+    color: #03045E;
+    
+}
+.brown_head{
+    margin-top: 100px;
+    color: #474306;
+    font-weight: 800;
+font-size: 100px;
+line-height: 116px;
+
+}
+.about_hints{
+    padding-left: 30%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: #03045E;
+}
+.skill_info{
+    color: #03045E;
+    margin-top: 30px;
+}
+.skill_items{
+    border: #474306 solid 4px; 
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 600px;
+}
+.skill_container{
+    display: flex;
+    justify-content: space-between ;
+    
+}
+.contact_info{
+    margin-top: 30px;
+}
